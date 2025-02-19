@@ -81,7 +81,7 @@ if ( ! $already_rendered ) {
 			foreach ( $messages as $message ) {
 				?>
 				<div class="tribe-rsvp-message tribe-rsvp-message-<?php echo esc_attr( $message->type ); ?>">
-					1 <?php echo esc_html( $message->message ); ?>
+					<?php echo esc_html( $message->message ); ?>
 				</div>
 				<?php
 			}//end foreach
