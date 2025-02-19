@@ -1,0 +1,1374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Event Tickets - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-02-19 07:13+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid " and "
+msgstr "et"
+
+msgid " on %s"
+msgstr " le %s"
+
+msgid "%s Settings"
+msgstr "Configuration de %s"
+
+msgid "%s cannot be a duplicate"
+msgstr "%s ne doit pas être en double"
+
+msgid "%s cannot be the same as %s."
+msgstr "%s ne peut être identique à %s."
+
+msgid "%s must be a number between 0 and 21."
+msgstr "%s doit être un nombre entre 0 et 21."
+
+msgid "%s must be a number or percentage."
+msgstr "%s doit être un nombre ou un pourcentage."
+
+msgid "%s must be a phone number."
+msgstr "%s doit être un numéro de téléphone."
+
+msgid "%s must be a positive number."
+msgstr "%s doit être un nombre positif."
+
+msgid "%s must be a valid absolute URL."
+msgstr "%s doit être une URL absolue valide."
+
+msgid "%s must be a valid slug (numbers, letters, dashes, and underscores)."
+msgstr ""
+"%s doit être un permalien valide (nombre, lettres, tirets et tirets de "
+"soulignement)."
+
+msgid "%s must consist of 5 numbers."
+msgstr "%s doit comprendre au moins 5 chiffres."
+
+msgid ""
+"%s must consist of letters, numbers, dashes, apostrophes, and spaces only."
+msgstr ""
+"%s doit contenir seulement des lettres, nombres, tirets, apostrophes et "
+"espaces."
+
+msgid "%s must consist of letters, spaces, apostrophes, and dashes."
+msgstr "%s doit comporter des lettres, espaces, apostrophes et tirets."
+
+msgid "%s must contain numbers and letters only"
+msgstr "%s doit contenir des chiffres et des lettres seulement"
+
+msgid "%s must contain numbers, letters and dots only"
+msgstr "%s doit contenir uniquement des chiffres, lettres et points"
+
+msgid "%s must have a value that's part of its options."
+msgstr "%s doit être une valeur qui fait parti de ses options."
+
+msgid "(0 or empty for free tickets)"
+msgstr "(0 ou vide pour des billets gratuits)"
+
+msgid "(Current sale price - this can be managed via the product editor)"
+msgstr "(Prix de vente actuel - ceci peut être géré via l'éditeur de produit)"
+
+msgid "(deleted)"
+msgstr "(supprim&eacute;)"
+
+msgid "A valid license key is required for support and updates"
+msgstr ""
+"Une clé de licence valide est nécessaire pour le support et les mises à jour"
+
+msgid "Above the event details"
+msgstr "Au-dessus des détails de l’évènement"
+
+msgid "Activate %s"
+msgstr "Activer %s"
+
+msgid "Activate Plugin"
+msgstr "Activer l&rsquo;extension"
+
+msgid "Add new ticket"
+msgstr "Ajouter un nouveau billet"
+
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+msgid "Alabama"
+msgstr "Alabama"
+
+msgid "Alaska"
+msgstr "Alaska"
+
+msgid "Albania"
+msgstr "Albanie"
+
+msgid "Algeria"
+msgstr "Alg&eacute;rie"
+
+msgid "American Samoa"
+msgstr "les Samoa am&eacute;ricaines"
+
+msgid "Andorra"
+msgstr "Andore"
+
+msgid "Angola"
+msgstr "Angolie"
+
+msgid "Anguilla"
+msgstr "Anguilla"
+
+msgid "Antarctica"
+msgstr "Antarctique"
+
+msgid ""
+"Are you thinking \"Wow, this plugin is amazing! I should say thanks to "
+"Modern Tribe for all their hard work.\" The greatest thanks we could ask for "
+"is recognition. Add a small text-only link at the bottom of your calendar "
+"pointing to The Events Calendar project."
+msgstr ""
+"Pensez-vous que « Waouh ! Ce plugin est génial ! Je devrais remercier Modern "
+"Tribe pour tous leurs efforts. » Le meilleur des remerciements que nous "
+"souhaitons est de la reconnaissance. Ajouter un petit lien en bas de votre "
+"calendrier qui redirige sur le site du projet Events Calendar."
+
+msgid "Argentina"
+msgstr "Argentina"
+
+msgid "Arizona"
+msgstr "Arizona"
+
+msgid "Arkansas"
+msgstr "Arkansas"
+
+msgid "Armenia"
+msgstr "Arm&eacute;nie"
+
+msgid "Aruba"
+msgstr "Aruba"
+
+msgid "Attendee List"
+msgstr "Liste de participants"
+
+msgid "Attendee List for: %s"
+msgstr "Liste de participants pour : %s"
+
+msgid "Attendees"
+msgstr "Participants"
+
+msgid "Australia"
+msgstr "Australier"
+
+msgid "Austria"
+msgstr "Australie"
+
+msgid "Azerbaijan"
+msgstr "Azerba&iuml;djan"
+
+msgid "Bahamas"
+msgstr "Bahamas"
+
+msgid "Bahrain"
+msgstr "Bahrein"
+
+msgid "Bangladesh"
+msgstr "Bengladesh"
+
+msgid "Barbados"
+msgstr "La Barbade"
+
+msgid "Belarus"
+msgstr "Bi&eacute;lorussie"
+
+msgid "Belgium"
+msgstr "Belgique"
+
+msgid "Belize"
+msgstr "Bélize"
+
+msgid "Benin"
+msgstr "B&eacute;nin"
+
+msgid "Bermuda"
+msgstr "Bermude"
+
+msgid "Bhutan"
+msgstr "Bhoutan"
+
+msgid "Bolivia"
+msgstr "Bolivie"
+
+msgid "Botswana"
+msgstr "Botswana"
+
+msgid "Bouvet Island"
+msgstr "Bouvet Island"
+
+msgid "Brazil"
+msgstr "Br&eacute;sil"
+
+msgid "British Indian Ocean Territory"
+msgstr "Territoire britannique de l&apos;oc&eacute;an Indien"
+
+msgid "Brunei Darussalam"
+msgstr "Brunei Darussalam"
+
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+msgid "Burundi"
+msgstr "Burundi"
+
+msgid "California"
+msgstr "Californie"
+
+msgid "Cambodia"
+msgstr "Cambodge"
+
+msgid "Cameroon"
+msgstr "Cameroun"
+
+msgid "Canada"
+msgstr "Canada"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Cape Verde"
+msgstr "Cap Vert"
+
+msgid "Cayman Islands"
+msgstr "Iles Ca&iuml;mans"
+
+msgid "Central African Republic"
+msgstr "R&eacute;publique Centrafricaine"
+
+msgid "Chad"
+msgstr "Chad"
+
+msgid "Check in"
+msgstr "Enregistrement du participant"
+
+msgid "Check out the available add-ons"
+msgstr "Consultez les modules disponibles"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "China"
+msgstr "Chine"
+
+msgid "Christmas Island"
+msgstr "Île Christmas"
+
+msgid "Cocos (Keeling) Islands"
+msgstr "Cocos (Keeling)"
+
+msgid "Colombia"
+msgstr "Colombie"
+
+msgid "Colorado"
+msgstr "Colorado"
+
+msgid "Columns"
+msgstr "Colonnes"
+
+msgid "Community Events"
+msgstr "Événements de la communauté"
+
+msgid "Comoros"
+msgstr "Comores"
+
+msgid ""
+"Comparison validation failed because no comparison value was provided, for "
+"field %s"
+msgstr ""
+"Échec de validation de la comparaison : aucune valeur de comparaison fournie "
+"pour le champ %s"
+
+msgid "Congo"
+msgstr "Congo"
+
+msgid "Connecticut"
+msgstr "Connecticut"
+
+msgid "Cook Islands"
+msgstr "Iles Cook"
+
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+msgid ""
+"Country List must be formatted as one country per line in the following "
+"format: <br>US, United States <br> UK, United Kingdom."
+msgstr ""
+"La liste de pays doit être formatée avec un pays par ligne et avec le format "
+"suivant: <br>FR, France <br> UK, United Kingdom."
+
+msgid "Croatia (Local Name: Hrvatska)"
+msgstr "Croatie (Nom local : Hrvatska)"
+
+msgid "Cuba"
+msgstr "Cuba"
+
+msgid "Cyprus"
+msgstr "Chypre"
+
+msgid "Czech Republic"
+msgstr "R&eacute;publique Tch&egrave;que"
+
+msgid "Date Format Settings"
+msgstr "Paramètres de format de date"
+
+msgid "Datepicker Date Format"
+msgstr "Format de date du sélecteur de date"
+
+msgid "Debug Bar Plugin"
+msgstr "Plugin Debug Bar"
+
+msgid "Debug mode"
+msgstr "Mode debug"
+
+msgid "Delaware"
+msgstr "Delaware"
+
+msgid "Delete"
+msgstr "Suppirmer"
+
+msgid "Denmark"
+msgstr "Danmark"
+
+msgid "Display"
+msgstr "Afficher"
+
+msgid "District of Columbia"
+msgstr "District de Columbia"
+
+msgid "Djibouti"
+msgstr "Djibouti"
+
+msgid "Dominica"
+msgstr "La Dominique"
+
+msgid "Dominican Republic"
+msgstr "R&eacute;publique Dominicaine"
+
+msgid "Don't list me on the public attendee list"
+msgstr "Ne pas figurer sur la liste public des participants"
+
+msgid "East Timor"
+msgstr "Timor-Oriental"
+
+msgid "Ecuador"
+msgstr "Equateur"
+
+msgid "Edit"
+msgstr "éditer"
+
+msgid "Edit in %s"
+msgstr "Modifier dans %s"
+
+msgid "Edit ticket"
+msgstr "Modifier ticket"
+
+msgid "Egypt"
+msgstr "&Eacute;gypte"
+
+msgid "El Salvador"
+msgstr "Le Salvador"
+
+msgid "Email"
+msgstr "Adresse mail"
+
+msgid "Email Address:"
+msgstr "Adresse Email :"
+
+msgid "Email sent successfully!"
+msgstr "E-mail bien envoyé !"
+
+msgid ""
+"Enable this option to log debug information. By default this will log to "
+"your server PHP error log. If you'd like to see the log messages in your "
+"browser, then we recommend that you install the %s and look for the "
+"\"Tribe\" tab in the debug output."
+msgstr ""
+"Activer cette option pour enregistrer les informations de débogage. Par "
+"défauts les informations seront enregistrés sur le ficher d'enregistrement "
+"de votre serveur PHP (Error Log). Si vous souhaitez voir les messages du "
+"journal sur votre navigateur, nous vous recommandons d'installer %s et de "
+"rechercher l'onglet \"Tribe\" dans la sortie de débogage."
+
+msgid "End sale:"
+msgstr "Fin de la vente :"
+
+msgid "Equatorial Guinea"
+msgstr "Guin&eacute;e Equatoriale"
+
+msgid "Eritrea"
+msgstr "Erythr&eacute;e"
+
+msgid "Error when sending the email"
+msgstr "Erreur lors de l’envoi de l’e-mail"
+
+msgid "Estonia"
+msgstr "Estonie"
+
+msgid "Ethiopia"
+msgstr "&Eacute;thiopie"
+
+msgid "Event Add-Ons"
+msgstr "Modules d'événement"
+
+msgid "Events"
+msgstr "Évènements"
+
+msgid "Events Calendar PRO"
+msgstr "Events Calendar PRO"
+
+msgid "Events Settings"
+msgstr "Réglages d'événements"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "Falkland Islands (Malvinas)"
+msgstr "Îles Falkland (Maldives)"
+
+msgid "Faroe Islands"
+msgstr "Iles F&eacute;ro&eacute;"
+
+msgid "Field ID:"
+msgstr "Identifiant du dhamp :"
+
+msgid "Fiji"
+msgstr "Fidjien"
+
+msgid "Finland"
+msgstr "Finlande"
+
+msgid "Florida"
+msgstr "Floride"
+
+msgid "France"
+msgstr "France"
+
+msgid "Free"
+msgstr "Gratuit"
+
+msgid "French Guiana"
+msgstr "Guyane fran&ccedil;aise"
+
+msgid "French Polynesia"
+msgstr "Polyn&eacute;sie fran&ccedil;aise"
+
+msgid "French Southern Territories"
+msgstr "Terres australes et antarctiques fran&ccedil;aises "
+
+msgid "Full Name"
+msgstr "Nom"
+
+msgid "Gabon"
+msgstr "Gabon"
+
+msgid "Gambia"
+msgstr "Gambie"
+
+msgid "General"
+msgstr "Principal"
+
+msgid "Georgia"
+msgstr "Géorgie"
+
+msgid "Germany"
+msgstr "Allemagne"
+
+msgid "Ghana"
+msgstr "Gana"
+
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+msgid "Greece"
+msgstr "Gr&egrave;ce"
+
+msgid "Greenland"
+msgstr "Groenland"
+
+msgid "Grenada"
+msgstr "La Grenade"
+
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+msgid "Guam"
+msgstr "Guam"
+
+msgid "Guatemala"
+msgstr "Guatemala"
+
+msgid "Guinea"
+msgstr "Guin&eacute;e"
+
+msgid "Guinea-Bissau"
+msgstr "Guin&eacute;e-Bissau"
+
+msgid "Guyana"
+msgstr "Guyana"
+
+msgid "Haiti"
+msgstr "Ha&iuml;ti"
+
+msgid "Hawaii"
+msgstr "Hawaii"
+
+msgid "Help"
+msgstr "Aider"
+
+msgid "Hide the following settings tabs on every site:"
+msgstr "Masquer les onglets de réglages suivants sur chaque site :"
+
+msgid "Holy See (Vatican City State)"
+msgstr "Cité du Vatican"
+
+msgid "Honduras"
+msgstr "Honduras"
+
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+msgid "Hungary"
+msgstr "Hongrie"
+
+msgid "Iceland"
+msgstr "Icelande"
+
+msgid "Idaho"
+msgstr "Idaho"
+
+msgid "Illinois"
+msgstr "Illinois"
+
+msgid "India"
+msgstr "Inde"
+
+msgid "Indiana"
+msgstr "Indiana"
+
+msgid "Indonesia"
+msgstr "Indonesie"
+
+msgid "Install %s"
+msgstr "%s installé"
+
+msgid "Invalid Email"
+msgstr "Adresse email invalide"
+
+msgid "Invalid User ID"
+msgstr "Identifiant utilisateur non valide"
+
+msgid "Invalid field type specified"
+msgstr "Type de champ spécifié invalide"
+
+msgid "Invalid or incomplete field passed"
+msgstr "Le champ transmis est incomplet ou incorrect"
+
+msgid "Iowa"
+msgstr "Iowa"
+
+msgid "Iraq"
+msgstr "Irac"
+
+msgid "Ireland"
+msgstr "Irlande"
+
+msgid "Israel"
+msgstr "Isra&euml;l"
+
+msgid "Italy"
+msgstr "Italie"
+
+msgid "Jamaica"
+msgstr "Jama&iuml;que"
+
+msgid "Japan"
+msgstr "Japon"
+
+msgid "Jordan"
+msgstr "Jordanie"
+
+msgid "Kansas"
+msgstr "Kansas"
+
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+msgid "Kentucky"
+msgstr "Kentucky"
+
+msgid "Kenya"
+msgstr "Kenia"
+
+msgid "Kiribati"
+msgstr "Kiribati"
+
+msgid "Knowledgebase"
+msgstr "Base de connaissances"
+
+msgid "Kuwait"
+msgstr "Kowe&iuml;t"
+
+msgid "Kyrgyzstan"
+msgstr "Kirghizistan"
+
+msgid "Lao People's Democratic Republic"
+msgstr "République Démocratique Populaire Lao"
+
+msgid "Latest Version:"
+msgstr "Dernière version :"
+
+msgid "Latvia"
+msgstr "Lettonie"
+
+msgid "Lebanon"
+msgstr "Liban"
+
+msgid "Lesotho"
+msgstr "Lesotho"
+
+msgid "Liberia"
+msgstr "Lib&eacute;ria"
+
+msgid "Libya"
+msgstr "Lybie"
+
+msgid "License Key"
+msgstr "Clé de licence"
+
+msgid "License key(s) updated."
+msgstr "Clé(s) de licence mise(s) à jour."
+
+msgid "Licenses"
+msgstr "Licences"
+
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+msgid "Lithuania"
+msgstr "Lithuanie"
+
+msgid ""
+"Looking for additional functionality including recurring events, custom "
+"meta, community events, ticket sales and more?"
+msgstr ""
+"Vous cherchez d'autres fonctionnalités comme les événements récurrents, les "
+"méta-données personnalisées, les événements communautaires, la vente de "
+"billets et plus encore ? "
+
+msgid "Louisiana"
+msgstr "Louisiane"
+
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+msgid "Macau"
+msgstr "Macau"
+
+msgid "Macedonia"
+msgstr "Mac&eacute;doine"
+
+msgid "Madagascar"
+msgstr "Madagascar"
+
+msgid "Maine"
+msgstr "Maine"
+
+msgid "Malawi"
+msgstr "Malawi"
+
+msgid "Malaysia"
+msgstr "Malaysia"
+
+msgid "Maldives"
+msgstr "Maldives"
+
+msgid "Mali"
+msgstr "Mali"
+
+msgid "Malta"
+msgstr "Malta"
+
+msgid "Marshall Islands"
+msgstr "Iles Marshall"
+
+msgid "Martinique"
+msgstr "Martinique"
+
+msgid "Maryland"
+msgstr "Maryland"
+
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+msgid "Mauritania"
+msgstr "Mauritanie"
+
+msgid "Mauritius"
+msgstr "Ile Maurice"
+
+msgid "Mayotte"
+msgstr "Mayotte"
+
+msgid "Mexico"
+msgstr "Mexique"
+
+msgid "Michigan"
+msgstr "Michigan"
+
+msgid "Minnesota"
+msgstr "Minnesota"
+
+msgid "Mississippi"
+msgstr "Mississippi"
+
+msgid "Missouri"
+msgstr "Missouri"
+
+msgid "Modern Tribe, Inc."
+msgstr "Modern Tribe, Inc."
+
+msgid "Monaco"
+msgstr "Monaco"
+
+msgid "Mongolia"
+msgstr "Mongolie"
+
+msgid "Montana"
+msgstr "Montana"
+
+msgid "Montenegro"
+msgstr "Mont&eacute;n&eacute;gro"
+
+msgid "Montserrat"
+msgstr "Monserrat"
+
+msgid "More..."
+msgstr "Plus..."
+
+msgid "Morocco"
+msgstr "Morocco"
+
+msgid "Mozambique"
+msgstr "Mozambique"
+
+msgid "Myanmar"
+msgstr "Birmanie"
+
+msgid "Namibia"
+msgstr "Namibie"
+
+msgid "Nauru"
+msgstr "Nauruan"
+
+msgid "Nebraska"
+msgstr "Nebraska"
+
+msgid "Nepal"
+msgstr "N&eacute;pal"
+
+msgid "Netherlands"
+msgstr "Pays Bas"
+
+msgid "Network"
+msgstr "Réseau"
+
+msgid "Network Settings"
+msgstr "Paramètres du réseau"
+
+msgid "Nevada"
+msgstr "Nevada"
+
+msgid "New Caledonia"
+msgstr "Nouvelle-Cal&eacute;donie"
+
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+msgid "New Jersey"
+msgstr "New Jersey"
+
+msgid "New Mexico"
+msgstr "Nouveau Mexique"
+
+msgid "New York"
+msgstr "New York"
+
+msgid "New Zealand"
+msgstr "Nouvelle-Z&eacute;lande"
+
+msgid "News and Tutorials"
+msgstr "Actu et tutoriels"
+
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+msgid "Niger"
+msgstr "Niger"
+
+msgid "Nigeria"
+msgstr "Nigéria"
+
+msgid "Niue"
+msgstr "Niou&eacute;"
+
+msgid "No checkbox options specified"
+msgstr "Aucune case cochée"
+
+msgid "No notable changes detected"
+msgstr "Aucun changement notable détecté"
+
+msgid "No radio options specified"
+msgstr "Aucune option sélectionnée"
+
+msgid "No select options specified"
+msgstr "Aucune option sélectionnée dans la liste déroulante"
+
+msgid "Non-existant field validation function passed"
+msgstr "La fonction de validation du champ transmis n'existe pas"
+
+msgid "None of your settings were saved. Please try again."
+msgstr "Aucun de vos réglages n'a été sauvegardé. Merci de réessayer."
+
+msgid "Norfolk Island"
+msgstr "&Icirc;le de Norfolk"
+
+msgid "North Carolina"
+msgstr "Caroline du Nord"
+
+msgid "North Dakota"
+msgstr "North Dakota"
+
+msgid "Northern Mariana Islands"
+msgstr "Iles Mariannes du Nord"
+
+msgid "Norway"
+msgstr "Norv&egrave;ge"
+
+msgid "Ohio"
+msgstr "Ohio"
+
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+msgid "Oman"
+msgstr "Oman"
+
+msgid "Oregon"
+msgstr "Oregon"
+
+msgid "Pakistan"
+msgstr "Pakistan"
+
+msgid "Palau"
+msgstr "Palau"
+
+msgid "Panama"
+msgstr "Panama"
+
+msgid "Papua New Guinea"
+msgstr "Papouasie Nouvelle-Guinée"
+
+msgid "Paraguay"
+msgstr "Paraguay"
+
+msgid "Pennsylvania"
+msgstr "Pennsylvanie"
+
+msgid "Peru"
+msgstr "P&eacute;rou"
+
+msgid "Philippines"
+msgstr "Philippines"
+
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+msgid "Poland"
+msgstr "Pologne"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Post draft updated."
+msgstr "Le brouillon de l&rsquo;article a été mis à jour."
+
+msgid "Post submitted."
+msgstr "Article envoyé."
+
+msgid "Premium Add-Ons"
+msgstr "Modules Premium"
+
+msgid "Price:"
+msgstr "Prix:"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+msgid "Purchaser"
+msgstr "Acheteur"
+
+msgid "Qatar"
+msgstr "Quatar"
+
+msgid "RSVP"
+msgstr "Réponse"
+
+msgid "Remove"
+msgstr "Supprimer\n"
+
+msgid "Requires:"
+msgstr "Requiert :"
+
+msgid "Reunion"
+msgstr "R&eacute;union"
+
+msgid ""
+"Rewrite rules were purged on load of this help page. Chances are there is a "
+"rewrite rule flush occurring in a plugin or theme!"
+msgstr ""
+"Les règles de réécriture (Rewrite) ont été purgées lors du chargement de "
+"cette page d'aide. Il y a probablement un vidage des règles de Rewrite "
+"provoqué par une extension ou un thème."
+
+msgid "Rhode Island"
+msgstr "Rhode Island"
+
+msgid "Romania"
+msgstr "Roumanie"
+
+msgid "Russian Federation"
+msgstr "Fédération Russe"
+
+msgid "Rwanda"
+msgstr "Rouwanda"
+
+msgid "Saint Lucia"
+msgstr "Sante Lucie"
+
+msgid "Sale Price:"
+msgstr "Prix promo :"
+
+msgid "Samoa"
+msgstr "Samoa"
+
+msgid "San Marino"
+msgstr "San Marino"
+
+msgid "Saudi Arabia"
+msgstr "Arabie Saoudite"
+
+msgid "Save Changes"
+msgstr "Changements sauvegardés."
+
+msgid "Save this ticket"
+msgstr "Enregistrer ce billet"
+
+msgid "Security Code"
+msgstr "Code de sécurité"
+
+msgid "See an example of the link"
+msgstr "Voir un exemple de lien"
+
+msgid "See who purchased tickets to this event"
+msgstr "Voir qui a acheté des tickets pour cet événement"
+
+msgid "Select a Country:"
+msgstr "Choisissez un pays :"
+
+msgid "Select a User:"
+msgstr "Sélectionner un utilisateur :"
+
+msgid "Select an Image"
+msgstr "Sélectionner une image"
+
+msgid "Select the date format to use in datepickers"
+msgstr "Sélectionnez le format de date à utiliser dans le sélecteur de date"
+
+msgid "Select..."
+msgstr "Selectionnez..."
+
+msgid "Sell using:"
+msgstr "Vendre en utilisant :"
+
+msgid "Send Email"
+msgstr "Envoyer"
+
+msgid "Send the attendee list by email"
+msgstr "Envoyer la liste des participants par email"
+
+msgid "Sending..."
+msgstr "Envoi&hellip;"
+
+msgid "Senegal"
+msgstr "S&eacute;n&eacute;gal"
+
+msgid "Serbia"
+msgstr "Serbie"
+
+msgid "Set as ticket header"
+msgstr "Définir en tant qu'en-tête de ticket"
+
+msgid "Settings"
+msgstr "Paramètres."
+
+msgid "Settings saved."
+msgstr "Paramètres enregistrés."
+
+msgid "Seychelles"
+msgstr "Seychelles"
+
+msgid "Show The Events Calendar link"
+msgstr "Afficher le lien de The Event Calendar"
+
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+msgid "Singapore"
+msgstr "Singapoure"
+
+msgid "Slovakia (Slovak Republic)"
+msgstr "Slovaquie (République Slovaque)"
+
+msgid "Slovenia"
+msgstr "Slov&eacute;nie"
+
+msgid "Sold %d"
+msgstr "%d vendus"
+
+msgid "Solomon Islands"
+msgstr "Iles Salomon"
+
+msgid "Somalia"
+msgstr "Somalie"
+
+msgid "Sorry, key validation server is not available."
+msgstr "Désolé, le serveur de validation des clés n'est pas disponible."
+
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+msgid "South Carolina"
+msgstr "Caroline du Sud"
+
+msgid "South Dakota"
+msgstr "Dakota du Sud"
+
+msgid "South Georgia, South Sandwich Islands"
+msgstr "Géorgie du Sud et Îles Sandwich du Sud"
+
+msgid "Spain"
+msgstr "Espagne"
+
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+msgid "Start sale:"
+msgstr "Début de la vente :"
+
+msgid "Sudan"
+msgstr "Soudan"
+
+msgid "Suriname"
+msgstr "Surinam"
+
+msgid "Swaziland"
+msgstr "Swaziland"
+
+msgid "Sweden"
+msgstr "Su&egrave;de"
+
+msgid "Switzerland"
+msgstr "Suisse"
+
+msgid "Syrian Arab Republic"
+msgstr "République arabe syrienne"
+
+msgid "System Information"
+msgstr "Informations Syst&egrave;me"
+
+msgid "Taiwan"
+msgstr "Taïwan"
+
+msgid "Tajikistan"
+msgstr "Tadjikistan"
+
+msgid "Templates introduced or updated with this release (%s):"
+msgstr "Modèles introduits ou mis à jour avec cette version (%s) :"
+
+msgid "Tennessee"
+msgstr "Tennessee"
+
+msgid "Texas"
+msgstr "Texas"
+
+msgid "Thailand"
+msgstr "Tha&iuml;lande"
+
+msgid "The Events Calendar"
+msgstr "The Events Calendar"
+
+msgid ""
+"The above setting was not saved. Other settings were successfully saved."
+msgid_plural ""
+"The above settings were not saved. Other settings were successfully saved."
+msgstr[0] ""
+"Le réglage ci-dessus n&#39;a pas été enregistré. Les autres paramètres ont "
+"été correctement enregistrés."
+msgstr[1] ""
+"Les réglages ci-dessus n&#39;ont pas été enregistrés. Les autres paramètres "
+"ont été correctement enregistrés."
+
+msgid ""
+"The maximum image size in the email will be 580px wide by any height, and "
+"then scaled for mobile. If you would like \"retina\" support use an image "
+"sized to 1160px wide."
+msgstr ""
+"La taille maximum d'une image à insérer dans les mails est de 580px de large "
+"(hauteur indifférente), elles seront mis à l'échelle pour les mobiles. Si "
+"vous souhaitez le support \"retina\", utilisez une image de 1160px de large."
+
+msgid "The request was sent insecurely."
+msgstr "La requête a été envoyée de manière non sécurisée."
+
+msgid "The request wasn't sent from this tab."
+msgstr "La requête n'a pas été envoyée depuis cet onglet."
+
+msgid "There are no fields setup for this tab yet."
+msgstr "Il n'y a pas encore de configuration de champs pour cet onglet."
+
+msgid "This calendar is powered by The Events Calendar."
+msgstr "Ce calendrier est généré par The Events Calendar."
+
+msgid ""
+"This event was created using Community Events. Are you sure you want to sell "
+"tickets for it?"
+msgstr ""
+"Cet événement a été crée avec Community Events. Êtes-vous sûr de vouloir "
+"vendre des tickets pour cet événement ?"
+
+msgid ""
+"This is where all of the global network settings for Modern Tribe's The "
+"Events Calendar can be modified."
+msgstr ""
+"C'est ici que tous les réglages généraux de l'extension The Events Calendar "
+"de Modern Tribe peuvent être modifiés."
+
+msgid "Ticket #"
+msgstr "N° du ticket"
+
+msgid "Ticket Description:"
+msgstr "Description du ticket :"
+
+msgid "Ticket Name:"
+msgstr "Titre du ticket :"
+
+msgid "Ticket Type"
+msgstr "Type de billet"
+
+msgid "Ticket header image"
+msgstr "Image d'en-tête du ticket"
+
+msgid "Tickets"
+msgstr "Billets"
+
+msgid "Togo"
+msgstr "Togo"
+
+msgid "Tokelau"
+msgstr "Tok&eacute;laou"
+
+msgid "Tonga"
+msgstr "Tongien"
+
+msgid "Tunisia"
+msgstr "Tunisie"
+
+msgid "Turkey"
+msgstr "Turquie"
+
+msgid "Turkmenistan"
+msgstr "Turkmenistan"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Uganda"
+msgstr "Ouganda"
+
+msgid "Ukraine"
+msgstr "Ukraine"
+
+msgid "Undo Check in"
+msgstr "Annuler l'enregistrement"
+
+msgid "United Arab Emirates"
+msgstr "Emirats Arabes Unis"
+
+msgid "United Kingdom"
+msgstr "Royaume Uni"
+
+msgid "United States"
+msgstr "Etats Unis d'Amérique"
+
+msgid "United States Minor Outlying Islands"
+msgstr "Îles Mineures éloignées des États-Unis"
+
+msgid "Unknown or not set"
+msgstr "Inconnu ou non défini"
+
+msgid "Upload image for the ticket header."
+msgstr "Mettre en ligne une image pour l’en-tête du ticket."
+
+msgid "Uruguay"
+msgstr "Uruguay"
+
+msgid "Utah"
+msgstr "Utah"
+
+msgid "Uzbekistan"
+msgstr "Ouzb&eacute;kistan"
+
+msgid "Valid Key! Expires on %s"
+msgstr "﻿Clé valide ! Expire le %s"
+
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+msgid "Venezuela"
+msgstr "Vénézuela"
+
+msgid "Vermont"
+msgstr "Vermont"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Viet Nam"
+msgstr "Vietnam"
+
+msgid "View"
+msgstr "Vues"
+
+msgid "View order"
+msgstr "Voir la commande"
+
+msgid "View your %s"
+msgstr "Voir vos %s"
+
+msgid "Virgin Islands (British)"
+msgstr "Îles Vierges (britanniques)"
+
+msgid "Virgin Islands (U.S.)"
+msgstr "Îles Vierges (U.S.)"
+
+msgid "Virginia"
+msgstr "Virginie"
+
+msgid "Washington"
+msgstr "Washington"
+
+msgid "We hope our plugin is helping you out."
+msgstr "Nous espérons que notre plugin vous est utile."
+
+msgid "West Virginia"
+msgstr "West Virginia"
+
+msgid "Western Sahara"
+msgstr "Sahara occidental"
+
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+msgid "WordPress "
+msgstr "WordPress"
+
+msgid "Wyoming"
+msgstr "Wyoming"
+
+msgid "Yemen"
+msgstr "Y&eacute;men"
+
+msgid "Yes"
+msgstr "Ben Oui"
+
+msgid "You are up to date!"
+msgstr "Vous avez la dernière version !"
+
+msgid ""
+"You can use Screen Options to select which columns you want to see. The "
+"selection works in the table below, in the email, for print and for the CSV "
+"export."
+msgstr ""
+"Vous pouvez utiliser les options d'écran pour sélectionner quelle colonne "
+"vous souhaitez rendre visibles. La sélection fonctionne pour le tableau ci-"
+"dessous, pour l'email, l'impression et pour l'export CSV."
+
+msgid "You don't have permission to do that."
+msgstr "Vous n'avez pas la permission d'effectuer ceci."
+
+msgid "You need to select a user or type a valid email address"
+msgstr ""
+"Vous devez sélectionner un utilisateur ou insérer une adresse email valide"
+
+msgid "You need to upgrade!"
+msgstr "Vous devez mettre à jour !"
+
+msgid "You've requested a non-existent tab."
+msgstr "L'onglet demandé n'existe pas."
+
+msgid "Your form had the following errors:"
+msgstr "Votre formulaire contiens les erreurs suivantes :"
+
+msgid "Your tickets"
+msgstr "Vos tickets"
+
+msgid "Zambia"
+msgstr "Zambie"
+
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+msgid "attendees"
+msgstr "participants"
+
+msgid "based on %s version"
+msgstr "basé sur la version %s"
+
+msgctxt "move tickets dialog"
+msgid "&laquo; Back"
+msgstr "&laquo; Retour"
+
+msgctxt "non-existant function name passed for field validation"
+msgid "with function name:"
+msgstr "avec le nom de la fonction :"
+
+msgctxt "not available"
+msgid "n/a"
+msgstr "nd"
+
+msgid "or"
+msgstr "ou"
+
+msgid "unknown date"
+msgstr "date inconnue"
+
+#: src/Tribe/RSVP.php:1868
+msgid "Your %1$s has been received! Check your email for your %1$s confirmation."
+msgstr "Votre %1$s a été reçu ! Vérifiez votre email pour la confirmation de votre %1$s."
