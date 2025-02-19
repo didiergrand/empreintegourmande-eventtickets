@@ -1865,7 +1865,7 @@ class Tribe__Tickets__RSVP extends Tribe__Tickets__Tickets {
 		$rsvp_error = empty( $_GET['rsvp_error'] ) ? false : intval( $_GET['rsvp_error'] );
 
 		if ( $rsvp_sent ) {
-			$this->add_message( esc_html( sprintf( __( 'Your %1$s has been received! Check your email for your %1$s confirmation.', 'event-tickets' ), tribe_get_rsvp_label_singular( basename( __FILE__ ) ) ) ), 'success' );
+			echo "Votre réservation a été enregistrée avec succès !";
 		}
 
 		if ( $rsvp_error ) {
